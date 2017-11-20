@@ -1,0 +1,11 @@
+C:\New Machine Aditi\C#.NET\RPNCalculator\RPNCalculator\bin\Debug\RPNCalculator.exe.config
+C:\New Machine Aditi\C#.NET\RPNCalculator\RPNCalculator\bin\Debug\RPNCalculator.exe
+C:\New Machine Aditi\C#.NET\RPNCalculator\RPNCalculator\bin\Debug\RPNCalculator.pdb
+C:\New Machine Aditi\C#.NET\RPNCalculator\RPNCalculator\bin\Debug\Newtonsoft.Json.dll
+C:\New Machine Aditi\C#.NET\RPNCalculator\RPNCalculator\bin\Debug\nunit.framework.dll
+C:\New Machine Aditi\C#.NET\RPNCalculator\RPNCalculator\bin\Debug\TechTalk.SpecFlow.dll
+C:\New Machine Aditi\C#.NET\RPNCalculator\RPNCalculator\bin\Debug\Newtonsoft.Json.xml
+C:\New Machine Aditi\C#.NET\RPNCalculator\RPNCalculator\bin\Debug\nunit.framework.xml
+C:\New Machine Aditi\C#.NET\RPNCalculator\RPNCalculator\obj\Debug\RPNCalculator.csprojResolveAssemblyReference.cache
+C:\New Machine Aditi\C#.NET\RPNCalculator\RPNCalculator\obj\Debug\RPNCalculator.exe
+C:\New Machine Aditi\C#.NET\RPNCalculator\RPNCalculator\obj\Debug\RPNCalculator.pdb
