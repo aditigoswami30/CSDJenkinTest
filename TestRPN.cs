@@ -14,7 +14,8 @@ namespace RPNCalculator
         public void sumtest()
         {
         Calculate objCal = new Calculate();
-            Assert.AreEqual(9, objCal.sum(4, 5));
+            //Assert.AreEqual(9, objCal.sum(4, 5));
+            Assert.AreEqual(10, objCal.sum(4, 5));
         }
     }
 }
